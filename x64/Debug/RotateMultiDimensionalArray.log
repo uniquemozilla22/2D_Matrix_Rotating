@@ -1,0 +1,6 @@
+﻿  MRotator.cpp
+C:\Users\uniqf\source\repos\RotateMultiDimensionalArray\RotateMultiDimensionalArray\MRotator.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\uniqf\source\repos\RotateMultiDimensionalArray\RotateMultiDimensionalArray\MRotator.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+  Generating Code...
+  RotateMultiDimensionalArray.vcxproj -> C:\Users\uniqf\source\repos\RotateMultiDimensionalArray\x64\Debug\RotateMultiDimensionalArray.exe
